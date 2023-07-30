@@ -1,6 +1,4 @@
-# Salida de datos
-
-app = "flutter"
-proyecto = "ComFlu"
-
-print(f"Se hara en {app} se llamara {proyecto}")
+# Entrada de datos
+# cadena = input("Como se llama tu proyecto?: ")
+cadena = float(input("Que version es?: "))
+print(f"Tu proyecto se llama {cadena}")
