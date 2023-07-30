@@ -18,6 +18,12 @@
 # sum = (num1 + num2 * 5) / 12
 # print("Resultado:", sum)
 
+'''
+Fragmento de comentario en multi lineas
+123
+456
+'''
+
 dato = 60
 print(dato)
 dato = "cambio de valor"
