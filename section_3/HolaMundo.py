@@ -1,11 +1,9 @@
-# Operadores logicos
-
-a = 30
-b = 40
-c = 50
-
-# r = (a < b) and (b < c)
-# r = (a > b) and (b < c)
-# r = (a > b) or (b < c)
-r = not((a > b) or (b < c))
-print(r)
+# Operadores de asignacion
+c = 0
+c += 10
+c -= 5
+c *= 3
+c /= 5
+c **= 3
+c %= 3
+print(c)
