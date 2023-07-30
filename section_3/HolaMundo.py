@@ -1,32 +1,38 @@
-# print("Hola Mundo")
-# print("Soy Ricardo")
+# n1 = 3
+# n2 = 5
+# r = n1 + n2
+# print(r)
 
-# numero = 50.6
-# print(numero)
-# print(type(numero))
+# n1 = 6
+# n2 = 4
+# r = n1 - n2
+# print(r)
 
-# palabra = "Hola de nuevo"
-# print(palabra)
-# print(type(palabra))
+# n1 = 3
+# n2 = 9
+# r = n1 * n2
+# print(r)
 
-# dato = False
-# print(dato)
-# print(type(dato))
+# n1 = 2
+# n2 = 3
+# r = n1 ** n2
+# print(r)
 
-# num1 = 120
-# num2 = 12.8
-# sum = (num1 + num2 * 5) / 12
-# print("Resultado:", sum)
+# n1 = 7
+# n2 = 2
+# r = n1 / n2
+# print(r)
 
-'''
-Fragmento de comentario en multi lineas
-123
-456
-'''
+# n1 = 7
+# n2 = 2
+# r = n1 // n2
+# print(r)
 
-dato = 60
-print(dato)
-dato = "cambio de valor"
-print(dato)
-dato = 12.8
-print(dato)
+# n1 = 9
+# n2 = 3
+# r = n1 % n2
+# print(r)
+
+r: str = ( 5 + ( 9 / 3)) ** 2
+print(r)
+print(type(r))
